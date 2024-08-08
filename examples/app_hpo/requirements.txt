@@ -1,3 +1,4 @@
 optuna
 lightning-flash[image,serve] == 0.7.0
 hiplot
+pytorch-lightning>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
