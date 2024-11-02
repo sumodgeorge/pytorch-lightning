@@ -1,3 +1,4 @@
 optuna
 lightning-flash[image,serve] == 0.7.0
 hiplot
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
